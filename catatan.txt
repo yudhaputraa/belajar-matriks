@@ -1,0 +1,2 @@
+masih binggung dgn "Transformasi atau Operasi Elementer Pada Baris dan Kolom Suatu Matriks" 
+yg urutan G dan H,rumus g = Hi(λ1)j(λ2), H = Ki(λ1)j(λ2) 
